@@ -1,5 +1,5 @@
-#My first readme
-##Tasks
+# My first readme
+## Tasks
 0. Create and setup your Git and GitHub account
 1. Repo-session
 2. Coding fury road
